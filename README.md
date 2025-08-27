@@ -50,26 +50,4 @@ cd server
 npm install
 npm run dev
 Environment Variables
-Create a .env file in the root directory and add your API key:
-
-ini
-Copy code
-REACT_APP_FLIGHT_API_KEY=your_api_key_here
-Screenshots
-Include screenshots or GIFs of the application here (such as the search page, results, and favorites view) to demonstrate functionality and design.
-
-Why This Project?
-This project highlights:
-
-Full-stack development across frontend and backend
-
-Real-world API integration with secure key management
-
-Responsive and professional UI/UX design
-
-Proper Git and GitHub workflow practices
-
-Author
-Andrew (LightAnd2)
-Computer Science student at Michigan State University
-Aspiring Software Engineer
+Create a .env file in the root directory and add your API key
